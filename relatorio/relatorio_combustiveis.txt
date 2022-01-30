@@ -1,0 +1,116 @@
+### Análise de Dados Estatísticos - BigData e Machine Learning ###
+
+Tema: Estatísticas de Vendas e Petróleo e Biocombustíveis
+Fonte dos Dados: (X) Público	( ) Particular
+Analista de Dados / Programador: Eduardo Programador
+Contato do Analista: consultoria@eduardoprogramador.com | (81) 98860-0704
+Ferramenta Utilizada: Tecnologia Própria. Algoritmo Construído em Java. Copyright 2022. Todos os Direitos Reservados
+Fonte dos Dados: http://landpage-h.cgu.gov.br/dadosabertos/index.php?url=https://www.gov.br/anp/pt-br/centrais-de-conteudo/dados-abertos/arquivos/vdpb/vendas-derivados-petroleo-e-etanol/vendas-derivados-petroleo-etanol-m3-1990-2021.csv
+
+[*] Algoritmo em Andamento..
+[*] Aguarde (Pode demorar alguns minutos)...
+
+[*] Resumo dos Dados:
+
+Total de Registros: 82756
+Anos: 32
+Meses: 12
+Regiões: 5
+Estados: 27
+Combustíveis: 8
+Preços: 72981
+
+### Estatísticas de Estudo ###
+
+
+1. Anos
+[2019, 1997, 2012, 2002, 1993, 2010, 2016, 1996, 2004, 2005, 2015, 2001, 1992, 2009, 2011, 1994, 2017, 2003, 1995, 2018, 2008, 2013, 2000, 2021, 1990, 1991, 1998, 2014, 2007, 2020, 1999, 2006]
+2. Meses
+[OUT, JAN, SET, NOV, DEZ, ABR, FEV, MAR, MAI, JUL, JUN, AGO]
+3. Regiões
+[REGIÃO NORDESTE, REGIÃO NORTE, REGIÃO SUDESTE, REGIÃO SUL, REGIÃO CENTRO-OESTE]
+4. Estados
+[PIAUÍ, CEARÁ, MARANHÃO, TOCANTINS, SERGIPE, BAHIA, ALAGOAS, PERNAMBUCO, RIO GRANDE DO NORTE, PARAÍBA, ESPÍRITO SANTO, AMAZONAS, ACRE, MINAS GERAIS, SANTA CATARINA, SÃO PAULO, RIO GRANDE DO SUL, RIO DE JANEIRO, PARANÁ, GOIÁS, RONDÔNIA, PARÁ, RORAIMA, AMAPÁ, MATO GROSSO DO SUL, DISTRITO FEDERAL, MATO GROSSO]
+5. Combustíveis
+[ETANOL HIDRATADO, GASOLINA C, GASOLINA DE AVIAÇÃO, GLP, QUEROSENE DE AVIAÇÃO, QUEROSENE ILUMINANTE, ÓLEO COMBUSTÍVEL, ÓLEO DIESEL]
+
+Análise de Dados
+
+[*] Calculando, Aguarde...
+1. Valor de Vendas por tipo de combustível
+
+Etanol Hidratado: 3.43920128E8
+Gasolina C: 8.7265626E8
+Gasolina de Aviação: 2041188.4
+GLP: 3.82923584E8
+Querosene de Aviação: 1.6139872E8
+Querosene Iluminante: 3118267.8
+Óleo Combustível: 2.07102496E8
+Óleo Diesel: 1.35682445E9
+
+2. Valor de Vendas por região
+
+Norte: 2.4644504E8
+Nordeste: 5.33989952E8
+Sudeste: 1.60930253E9
+Sul: 5.9880531E8
+Centro-Oeste: 3.41435456E8
+
+3. Vendas por Tipo de Combustível, 2019, 2020 e 2021
+
+
+[*] 3.1. Etanol Hidratado [*]
+
+2019: 2.2544048E7
+2020: 1.9257938E7
+2021: 1.5519071E7
+
+[*] 3.2. Gasolina C [*]
+
+2019: 3.8165024E7
+2020: 3.5823608E7
+2021: 3.5248528E7
+
+[*] 3.3. Gasolina de Aviação [*]
+
+2019: 43145.645
+2020: 38998.016
+2021: 44223.33
+
+[*] 3.4. GLP [*]
+
+2019: 1.3208921E7
+2020: 1.36068E7
+2021: 1.2341698E7
+
+[*] 3.5. Querosene de Aviação [*]
+
+2019: 6980446.0
+2020: 3546072.8
+2021: 3874121.0
+
+[*] 3.6. Querosene Iluminante [*]
+
+2019: 4439.8857
+2020: 4330.5923
+2021: 4120.5
+
+[*] 3.7. Óleo Combustível [*]
+
+2019: 1890610.9
+2020: 2019188.8
+2021: 3183272.5
+
+[*] 3.8. Óleo Diesel [*]
+
+2019: 5.7298452E7
+2020: 5.7472092E7
+2021: 5.7179288E7
+
+
+### FIM ###
+
+
+Copyright 2022. Eduardo Programador
+
+Process finished with exit code 0

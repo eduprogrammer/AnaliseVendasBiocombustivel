@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PetroleoBioCombustivel:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PetroleoBioCombustivel_jar</output-path>
+    <root id="archive" name="PetroleoBioCombustivel.jar">
+      <element id="module-output" name="PetroleoBioCombustivel" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/Common.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../DuJava/out/artifacts/DuJava_jar/DuJava.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
